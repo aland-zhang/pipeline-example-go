@@ -22,10 +22,6 @@ steps:
     settings:
       repo: 10.10.15.51/cnych/drone-k8s-demo
       use_cache: true
-      username:
-        zhwenh
-      password:
-        z3092382
     tags:
       - latest
     when:
